@@ -17,7 +17,7 @@ running Windows and older versions of Linux.
 ### Pentesting tools
 * Metasploit Framework
 * Nmap 
-    *Nmap scripts for vulnerability scanning and SQL/ftp enumeration scripts for login credentials
+* Nmap scripts for vulnerability scanning and SQL/ftp enumeration scripts for login credentials
 * sqlmap
 * aircrack-ng
 * Rapid7 exploit database
