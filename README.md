@@ -20,4 +20,4 @@ running Windows and older versions of Linux.
 * Nmap scripts for vulnerability scanning and SQL/ftp enumeration scripts for login credentials
 * sqlmap
 * aircrack-ng
-* [Rapid7 exploit database](https://www.rapid7.com/db/)
+* [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
