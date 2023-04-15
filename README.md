@@ -28,4 +28,4 @@ The whole lab is built on virtual machines running on [VMWare Workstation Player
 
 ### Scripts
 
-* Nmap - vulnerability scanning and SQL/ftp enumeration scripts for login credentials
+* Nmap: vulnerability scanning and SQL/ftp enumeration scripts for login credentials
