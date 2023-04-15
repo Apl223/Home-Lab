@@ -38,4 +38,4 @@ This is due to some issues in carrying out payloads from exploits that are attem
 
 * Cross site scripting
 * Backdoor Command Execution
-* Default Login credentials
+* Default login credentials
