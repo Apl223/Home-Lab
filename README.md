@@ -32,4 +32,4 @@ This is due to some issues in carrying out payloads from exploits that are attem
 
 ### Scripts
 
-* Nmap: vulscan for vulnerability scanning, ftp-brute & ftp-anon login credential enumeration, and mysql-brute for SQL login credential enumeration.
+* Nmap: vulscan for vulnerability scanning, ftp-brute & ftp-anon for login credential enumeration, and mysql-brute for SQL login credential enumeration.
