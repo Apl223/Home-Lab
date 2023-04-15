@@ -8,6 +8,11 @@ The whole lab is built on virtual machines running on [VMWare Workstation Player
 * [Kali Linux](https://www.kali.org/get-kali/#kali-virtual-machines)
 * [Metasploitable 2 - Linux](https://sourceforge.net/projects/metasploitable/)
 
+### Network Configuration
+
+All virtual machines are set to have bridged connections to have their own private IP.
+This is due to some issues carrying out payloads from exploits that are attempting to connect to the same IP.
+
 ### Web Applications
 
 * [XAMPP](https://www.apachefriends.org/) - Windows 10 box
