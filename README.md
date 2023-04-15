@@ -17,6 +17,8 @@ This is due to some issues in carrying out payloads from exploits that are attem
 * [XAMPP](https://www.apachefriends.org/) - Windows 10 box
 * [DVWA](https://github.com/digininja/DVWA) - Windows 10 box
 
+![](./images/DVWA.png)
+
 ### Pentesting Tools
 
 * Metasploit Framework
@@ -40,4 +42,3 @@ This is due to some issues in carrying out payloads from exploits that are attem
 * Backdoor Command Execution
 * Default login credentials
 
-![](./images/DVWA.png)
