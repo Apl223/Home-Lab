@@ -17,12 +17,6 @@ This is due to some issues in carrying out payloads from exploits that are attem
 * [XAMPP](https://www.apachefriends.org/) - Windows 10 box
 * [DVWA](https://github.com/digininja/DVWA) - Windows 10 box
 
-### Vulnerabilities
-
-* Cross site scripting - DVWA
-* Backdoor 
-* Default login crede
-
 ### Pentesting Tools
 
 * Metasploit Framework
@@ -39,3 +33,9 @@ This is due to some issues in carrying out payloads from exploits that are attem
 ### Scripts
 
 * Nmap: vulscan for vulnerability scanning, ftp-brute, ftp-anon, and mysql-brute for ftp/SQL login credential enumeration.
+
+### Vulnerabilities
+
+* Cross site scripting
+* Backdoor Command Execution
+* Default Login credentials
