@@ -14,13 +14,18 @@ running Windows and older versions of Linux.
 * [XAMPP](https://www.apachefriends.org/) - Windows 10 box
 * [DVWA](https://github.com/digininja/DVWA) - Windows 10 box
 
-### Pentesting tools
+### Pentesting tools\
+
 * Metasploit Framework
 * Nmap 
 * Nmap scripts for vulnerability scanning and SQL/ftp enumeration scripts for login credentials
 * sqlmap
 * aircrack-ng
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
+* [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
+
+### Proxies
+
 * [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
 
