@@ -33,4 +33,4 @@ This is due to some issues carrying out payloads from exploits that are attempti
 
 ### Scripts
 
-* Nmap: vulnerability scanning and SQL/ftp enumeration scripts for login credentials
+* Nmap: vulscan for vulnerability scanning, ftp-brute & ftp-anon login credential enumeration, and mysql-brute for SQL login credential enumeration.
