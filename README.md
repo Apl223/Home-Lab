@@ -14,7 +14,7 @@ running Windows and older versions of Linux.
 * [XAMPP](https://www.apachefriends.org/) - Windows 10 box
 * [DVWA](https://github.com/digininja/DVWA) - Windows 10 box
 
-### Pentesting tools\
+### Pentesting Tools
 
 * Metasploit Framework
 * Nmap 
