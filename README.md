@@ -18,7 +18,6 @@ running Windows and older versions of Linux.
 
 * Metasploit Framework
 * Nmap 
-* Nmap scripts for vulnerability scanning and SQL/ftp enumeration scripts for login credentials
 * sqlmap
 * aircrack-ng
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
@@ -28,4 +27,6 @@ running Windows and older versions of Linux.
 
 * [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
 
+### Scripts
 
+* Nmap - vulnerability scanning and SQL/ftp enumeration scripts for login credentials
