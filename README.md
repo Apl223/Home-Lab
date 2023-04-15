@@ -11,11 +11,13 @@ running Windows and older versions of Linux.
 
 ### Web Applications
 
-* [XAMPP](https://www.apachefriends.org/) - This is ran on the Windows 10 box
-* [DVWA](https://github.com/digininja/DVWA) - Also runs on the Windows 10 box
+* [XAMPP](https://www.apachefriends.org/) - Windows 10 box
+* [DVWA](https://github.com/digininja/DVWA) - Windows 10 box
 
 ### Pentesting tools
-* Metasploit
-* Nmap & scripts
+* Metasploit Framework
+* Nmap 
+    *Nmap scripts for vulnerability scanning and SQL/ftp enumeration scripts for login credentials
 * sqlmap
-* 
+* aircrack-ng
+* Rapid7 exploit database
