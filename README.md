@@ -21,3 +21,6 @@ running Windows and older versions of Linux.
 * sqlmap
 * aircrack-ng
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
+* [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
+
+
