@@ -10,7 +10,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 ### Network Configuration
 
 All virtual machines are set to have bridged connections to have their own private IP.
-This is due to some issues carrying out payloads from exploits that are attempting to connect to the same IP.
+This is due to some issues in carrying out payloads from exploits that are attempting to connect to the same IP.
 
 ### Web Applications
 
