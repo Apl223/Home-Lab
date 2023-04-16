@@ -14,7 +14,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
   This is due to some issues in carrying out payloads from exploits that are attempting to connect to the same IP.
 * OPNsense is configured for all local traffic to pass through it's firewall.
 
-<img src="./images/OPNSENSE.png"  width="600" height="300">
+<img src="./images/OPNSENSE.png"  width="100" height="100">
 ![](./images/OPNSENSE.png)
 
 ### Web Applications
