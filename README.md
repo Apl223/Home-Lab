@@ -36,8 +36,8 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 ### Scripts
 
 * Nmap: 
-  -vulscan for vulnerability scanning.
-  -ftp-brute, ftp-anon, and mysql-brute for ftp/SQL login credential enumeration.
+  '''vulscan for vulnerability scanning.
+  '''ftp-brute, ftp-anon, and mysql-brute for ftp/SQL login credential enumeration.
 
 ### Vulnerabilities
 
