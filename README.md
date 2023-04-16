@@ -13,6 +13,8 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 All virtual machines are set to have bridged connections to have their own private IP.
 This is due to some issues in carrying out payloads from exploits that are attempting to connect to the same IP.
 
+All traffic is configured to go through a firewall [OPNsense](https://opnsense.org/download/)
+
 ### Web Applications
 
 * [XAMPP](https://www.apachefriends.org/) - Windows 10 box
