@@ -26,7 +26,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
      <tr>
         <td><img width="32" src="./images/WIN10.png"></td>
         <td><a href="https://www.microsoft.com/en-us/software-download/windows10">Windows 10</a></td>
-        <td>Runs XAMPP and DVWA</td>
+        <td>Runs vulnerable web applications and services</td>
     </tr>
 </table>
 
