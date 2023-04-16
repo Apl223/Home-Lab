@@ -19,12 +19,12 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
         <td>Tool suite for pentesting</td>
     </tr>
     <tr>
-        <td><img width="32" src="./images/WIN10.png"></td>
+        <td><img width="32" src=""></td>
         <td><a href="https://sourceforge.net/projects/metasploitable/">Metasploitable 2</a></td>
         <td>Linux machine with vulnerable web services</td>
     </tr>
      <tr>
-        <td><img width="32" src=""></td>
+        <td><img width="32" src="./images/WIN10.png"></td>
         <td><a href="https://www.microsoft.com/en-us/software-download/windows10">Windows 10</a></td>
         <td>Runs XAMPP and DVWA</td>
     </tr>
