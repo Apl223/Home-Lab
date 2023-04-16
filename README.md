@@ -28,9 +28,9 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 
 ### Reconnaissance Tools
 
+* nmap
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 * [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
-* nmap
 
 ### Proxies
 
@@ -38,8 +38,8 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 
 ### Scripts
 
-* Nmap: 
-    * vulscan for vulnerability scanning. 
+* nmap: 
+    * [vulscan for vulnerability scanning.](https://github.com/scipag/vulscan)
     * ftp-brute, ftp-anon, and mysql-brute for ftp/SQL login credential enumeration.
 
 ### Vulnerabilities
