@@ -14,7 +14,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
         <td>Firewall</td>
     </tr>
     <tr>
-        <td><img width="32" src="./images/KALI.png"></td>
+        <td><img width="32" src="./images/KALILINUX.png"></td>
         <td><a href="https://www.kali.org/get-kali/#kali-virtual-machines">Kali Linux</a></td>
         <td>Tool suite for pentesting</td>
     </tr>
