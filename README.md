@@ -13,8 +13,19 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 * All virtual machines are set to have bridged connections to have their own private IP.
   This is due to some issues in carrying out payloads from exploits that are attempting to connect to the same IP.
 * OPNsense is configured for all local traffic to pass through it's firewall.
+### Tech stack
 
-<img src="./images/OPNSENSE.png"  width="200" height="200">
+<table>
+    <tr>
+        <th>Logo</th>
+        <th>Name</th>
+        <th>Description</th>
+    </tr>
+    <tr>
+        <td><img width="32" src="./images/OPNSENSE.png"></td>
+        <td><a href="https://opnsense.org/download/">OPNsense</a></td>
+        <td>Firewall</td>
+    </tr>
 
 ### Web Applications
 
