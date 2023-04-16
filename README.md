@@ -25,9 +25,6 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 * Metasploit Framework
 * sqlmap
 * aircrack-ng
-
-### Reconnaissance Tools
-
 * nmap
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
 * [Burp Suite Community Edition](https://portswigger.net/burp/communitydownload)
