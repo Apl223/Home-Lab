@@ -23,7 +23,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 ### Pentesting Tools
 
 * Metasploit Framework
-* Nmap 
+* nmap 
 * sqlmap
 * aircrack-ng
 * [Rapid7 Vulnerability & Exploit Database](https://www.rapid7.com/db/)
