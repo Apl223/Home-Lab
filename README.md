@@ -41,7 +41,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 
 * Cross site scripting
 * Backdoor Command Execution
-* Default login credentials
+* Default login credentials/Common passwords
 * SQL Injections
 
 ![](./images/METASPLOIT.png)
