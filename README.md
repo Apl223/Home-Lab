@@ -26,6 +26,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
         <td><a href="https://opnsense.org/download/">OPNsense</a></td>
         <td>Firewall</td>
     </tr>
+</table>
 
 ### Web Applications
 
