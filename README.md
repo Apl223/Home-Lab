@@ -40,8 +40,9 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 ### Vulnerabilities
 
 * Cross site scripting
-* Backdoor Command Execution
+* Backdoor command execution
 * Default login credentials/Common passwords
-* SQL Injections
+* SQL injections
+* Buffer overflows
 
 ![](./images/METASPLOIT.png)
