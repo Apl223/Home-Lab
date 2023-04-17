@@ -5,7 +5,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
 <table>
     <tr>
         <th></th>
-        <th>Name</th>
+        <th>System</th>
         <th>Description</th>
     </tr>
     <tr>
