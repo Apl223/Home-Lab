@@ -36,7 +36,7 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
   This is due to some issues in carrying out payloads from exploits that are attempting to connect to the same IP.
 * OPNsense is configured to allow local traffic to pass through it's firewall.
 
-### Web Applications
+### Web Applications & Services
 
 * [XAMPP](https://www.apachefriends.org/) - Windows 10 box
 * [DVWA](https://github.com/digininja/DVWA) - Windows 10 box
