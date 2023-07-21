@@ -9,6 +9,11 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
         <th>Description</th>
     </tr>
     <tr>
+        <td><img width="32" src="./images/pfsense.png"></td>
+        <td><a href="https://www.pfsense.org/download/">pfSense</a></td>
+        <td>Firewall</td>
+    </tr>
+    <tr>
         <td><img width="32" src="./images/OPNSENSE.png"></td>
         <td><a href="https://opnsense.org/download/">OPNsense</a></td>
         <td>Firewall</td>
