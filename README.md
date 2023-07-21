@@ -26,12 +26,12 @@ Labs are entirely built on virtual machines running on [VMWare Workstation Playe
     <tr>
         <td><img width="32" src="./images/ubuntu.png"></td>
         <td><a href="https://ubuntu.com/download/desktop">Ubuntu 22.04.2 LTS</a></td>
-        <td>Tool suite for pentesting</td>
+        <td>Linux machine with vulnerabilities</td>
     </tr>
     <tr>
         <td><img width="32" src="./images/LINUX.png"></td>
         <td><a href="https://sourceforge.net/projects/metasploitable/">Metasploitable 2</a></td>
-        <td>Linux machine with vulnerable web services</td>
+        <td>Linux machine with vulnerabilities</td>
     </tr>
      <tr>
         <td><img width="32" src="./images/WIN10.png"></td>
